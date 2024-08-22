@@ -1,0 +1,222 @@
+body {
+    background: #f6f6fa;
+    padding: 40px 40px 40px 40px;
+    font-family: "Montserrat", sans-serif;
+}
+
+ul,
+ol {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+.wrapper {
+    width: 1200px;
+    margin: 0 auto;
+    background: #ffffff;
+    display: flex;
+    flex-direction: row-reverse;
+}
+.main {
+    padding-left: 88px;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.sidebar {
+    background: #e0ebfe;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    box-sizing: border-box;
+    width: 370px;
+}
+.sidebar-content {
+    padding-top: 40px;
+    padding-left: 40px;
+    padding-right: 40px;
+    box-sizing: border-box;
+}
+.contacts-title {
+    line-height: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    margin-top: 0;
+    margin-bottom: 8px;
+}
+.contacts-type {
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px;  
+    color: #161d2a;
+    margin-right: 8px;    
+}
+.contacts-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    text-decoration: underline;
+    color: #2979ff;
+}
+.contacts-item{
+    margin-top: 0;
+    margin-bottom: 4px;
+}
+.contacts-container{
+    margin-bottom: 40px;
+}
+.skilss-container{
+    margin-bottom: 40px;
+}
+.skilss-title{
+    line-height: normal;
+    font-weight: 700;
+    font-size: 22px;
+    color: #161d2a;
+    margin-bottom: 8px;
+    margin-top: 0;
+}
+.skilss-list{
+    padding-left: 16px;
+}
+.skilss-list-item{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #161d2a;  
+}  
+
+.my-profession{
+    margin-top: 0;
+    margin-bottom: 8px;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    color: #000;
+}
+.my-name{
+    margin-top: 0;
+    margin-bottom: 12px;
+    font-weight: 700;
+    font-size: 45px;
+    line-height: 55px; 
+    color: #000;
+}
+.my-descr{    
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px; 
+    color: #595959;
+}
+.my-info{
+    margin-bottom: 40px;
+}
+
+.my-projects-title{
+    margin-bottom: 8px;
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 22px;
+    line-height: 27px; 
+    color: #000;
+}
+
+.my-projects-item{
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 24px; 
+    color: #000;
+}
+
+.my-projects-list{
+    padding-left: 16px;
+}
+
+.my-projects-item-link{
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;  
+    text-decoration: underline;
+    color: #005fff;
+}
+
+.my-projects-item-tech{
+    font-weight: 400;
+    font-size: 14px;    
+    line-height: 24px; 
+    color: #595959;
+}
+
+.my-projects-container{
+    margin-bottom: 40px;
+}
+
+.work-experience-title{
+    font-weight: 700;
+    font-size: 22px;  
+    line-height: 27px; 
+    color: #000;   
+    margin-top: 0; 
+    margin-bottom: 12px;
+}
+
+.work-experience-company{
+    margin-bottom: 12px;
+    margin-top: 0;
+    font-weight: 700;
+    font-size: 16px;    
+    line-height: 20px; 
+    color: #000;
+}
+
+.company-name{
+    color: #6d9bf5;
+}
+
+.work-experience-period{
+    font-weight: 400;
+    font-size: 12px;
+    line-height: 15px; 
+    color: #a8a8a8;
+    margin-bottom: 8px;
+}
+
+.work-experience-period-separator{
+    color: #000;
+}
+
+.work-experience-duties-list{
+    padding-left: 16px;
+}
+
+.work-experience-duties-item{
+    font-weight: 400;
+    font-size: 14px;   
+    line-height: 24px; 
+    color: #595959;    
+}
+
+.work-experience-container{
+    margin-bottom: 12px;
+    margin-top: 12px;
+}
+.education-title{
+    font-weight: 700;
+    font-size: 22px;
+    color: #000;    
+}
+.education-university{
+    font-weight: 700;
+    font-size: 16px;
+    color: #6d9bf5;
+}
+.education-faculty{
+    font-weight: 700;
+    font-size: 14px;
+    color: #000;    
+}
+.education-period{
+    font-weight: 400;
+    font-size: 12px;
+    color: #a8a8a8;    
+}
